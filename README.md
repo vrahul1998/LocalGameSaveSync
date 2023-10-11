@@ -15,7 +15,7 @@ Stores the save files in the directory where the .exe is into the Home directory
 list of save folders you want to keep in sync. Save files are usually present within C://Users/{username}/
 The above path will be added automatically to your provided path.
 Provide path relative to above mentioned path
-## Example
+## saves.json Example
   [
       "AppData\\Local\\DeadIsland"
   ]
